@@ -1,0 +1,8 @@
+site_name: XYZ API Service
+nav:
+    - Home: index.md
+    - Releases:
+        - Version 2.0.0: releases/release_2_0_0.md
+        - Version 1.0.0: releases/release_1_0_0.md
+    - references: references.md
+theme: readthedocs
