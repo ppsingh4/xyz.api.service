@@ -27,3 +27,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a feugiat purus
   - **issue two:** Description of issue two<br>
 
 **HLD:** *link_of_hld*
+
+## Defects
+
+1. DEFECT_NUMBER-123
+1. DEFECT_NUMBER-124
+1. DEFECT_NUMBER-1235
+1. DEFECT_NUMBER-1237
